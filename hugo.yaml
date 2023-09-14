@@ -1,0 +1,47 @@
+baseURL: https://www.lutheranconfessions.org/
+languageCode: en-us
+title: The Book of Concord Online
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+menu:
+  main:
+    - name: Book of Concord
+      pageRef: /boc
+      weight: 1
+    - name: About
+      pageRef: /about
+      weight: 2
+    - name: Search
+      weight: 3
+      params:
+        type: search
+    - name: "@LutheranAnswers / X"
+      weight: 4
+      url: "https://www.x.com/lutherananswers"
+      params:
+        icon: x-twitter
+    - name: Lutheran Answers
+      weight: 5
+      url: "https://www.lutherananswers.com"
+      params:
+        icon: microphone
+    - name: GitHub
+      weight: 6
+      url: "https://github.com/imfing/hextra"
+      params:
+        icon: github
+
+params:
+  navbar:
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: images/logo.svg
+      dark: images/logoDark.svg
+      link: /
+      width: 75
+      height: 300
+
