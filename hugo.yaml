@@ -30,7 +30,7 @@ menu:
         icon: microphone
     - name: GitHub
       weight: 6
-      url: "https://github.com/imfing/hextra"
+      url: "https://github.com/remysheppard/lutheran-confessions"
       params:
         icon: github
 
