@@ -1,6 +1,6 @@
 ---
 Title: The Articles of The Augsburg Confession
-Weight: 3
+Weight: 2
 next: /boc/augsburg-confession/conclusion
 prev: /boc/augsburg-confession/preface
 type: docs

@@ -1,18 +1,18 @@
 ---
 Title: Preface
 Weight: 1
-feature: table-preface.jpg
-hometable: full
+next: /boc/ecumenical-creeds/
+type: docs
 ---
 
-#### Preface to the Christian Book of Concord
+## Preface to the Christian Book of Concord
 
 To the Readers, one and all, of these Writings of ours, we, the Electors, Princes, and Deputies of the
 Holy Roman Empire in Germany, adherents of the Augsburg Confession, who have subscribed our
 names to the same, announce and declare, according to the dignity and rank of each one, our devotion,
 friendship, and greeting, combined with willing service.
 
-#### The Issues
+### The Issues
 
   It is a remarkable favor of Almighty God that in these last times and in this old age of the world He has
 willed, according to His unspeakable love, forbearance, and mercy, that after the darkness of papistical
@@ -68,7 +68,7 @@ should be held, where in a thorough, but nevertheless amicable manner there migh
 among us concerning such matters as are maliciously charged, by our adversaries, against [us and] our
 churches and schools.
 
-#### The Naumburg Conference of 1561
+### The Naumburg Conference of 1561
 
   And, indeed, after these deliberations our predecessors, of godly and excellent memory, together with
 some of us, assembled at Naumburg in Thuringia. On that occasion we took in hand the Augsburg
@@ -88,7 +88,7 @@ the heavenly doctrine, which alone is our guide to salvation, and, out of regard
 soul and their eternal happiness, would assent to it, all further controversies and disputations being
 rejected.
 
-#### The Naumburg Conference Failed
+### The Naumburg Conference Failed
 
   But, not without agitation of mind, we were informed that this declaration of ours and that repetition of a
 godly confession had too little weight with our adversaries, and that neither we nor our churches were
@@ -125,7 +125,7 @@ which had arisen could be settled in a right and godly manner.
 also judged that it ought to be promoted by us with great earnestness and zeal, in view of the office and
 duty divinely committed to us.
 
-#### The Torgau Conference of 1576
+### The Torgau Conference of 1576
 
   And accordingly, upon the counsel of some other Electors and Princes agreeing with us in religion, we,
 by the grace of God, Duke of Saxony, Elector, etc., summoned certain eminent and least suspected
@@ -165,7 +165,7 @@ concerning it with heart, mouth, and hand. Wherefore that godly agreement is cal
 not only the harmonious and concordant confession of some few of our theologians, but, in general, of
 the ministers of our churches and rectors of schools, jointly and severally, in our provinces and realms.
 
-#### The Role of the Augsburg Confession
+## The Role of the Augsburg Confession
 
   Now, our conferences and those of our illustrious predecessors which were undertaken with a godly and
 sincere intention, first at Frankfort on the Main, and afterward at Naumburg, and were recorded in
@@ -195,14 +195,13 @@ explanation, which will be submitted herewith or in the Book of Concord, in orde
 understand that we have resolved to tolerate in our realms, churches, and schools no other doctrine than
 that which, in the year 1530, was approved at Augsburg in a solemn confession, by the above-mentioned
 Electors, Princes, and Deputies of the Empire. This Confession also, by the help of God, we will retain to
-our last breath, when we shall go forth from this life to the heavenly fatherland, to appear with joyful and
-undaunted mind and with a pure conscience before the tribunal of our Lord Jesus Christ. We hope,
+our last breath, when we shall go forth from this life to the heavenly fatherland, to appear with joyful and undaunted mind and with a pure conscience before the tribunal of our Lord Jesus Christ. We hope,
 therefore, that our adversaries will hereafter spare both us and the ministers of our churches, and not
 employ these customary and most grievous accusations, that we cannot decide among ourselves upon
 anything as certain concerning our faith, and that, on this account, we are forging new confessions almost
 every year, yea, even every month.
 
-#### The Second Edition of the Augsburg Confession
+### The Second Edition of the Augsburg Confession
 
   Moreover, as to the second edition of the Augsburg Confession, of which mention is made also in the
 transactions at Naumburg, we notice, what is also known to all, that, under the pretext of the words of
@@ -221,8 +220,7 @@ they agree with the norm which has been set forth in the Book of Concord.
   Now, although some theologians, and among them Luther himself, when they treated of the Lord’s
 Supper, were drawn, against their will, by their adversaries to disputations concerning the personal union
 of the two natures in Christ, nevertheless our theologians in the Book of Concord, and by the norm of
-sound doctrine which is in it, testify that both our constant and perpetual opinion and that of this book is
-that with regard to the Lord’s Supper godly men should be led to no other foundations than to those of
+sound doctrine which is in it, testify that both our constant and perpetual opinion and that of this book is that with regard to the Lord’s Supper godly men should be led to no other foundations than to those of
 the words of institution of the testament of our Lord Jesus Christ. For since He is both almighty and true,
 it is easy for Him to do those things which He has both instituted and promised in His Word. And indeed,
 when this foundation will not be assailed by their adversaries, they will not contend in this kind of
@@ -236,7 +234,7 @@ the Son of God, His ascension into heaven, and His sitting at the right hand of 
 majesty of God) and therefore to be false, it must be shown by a true and thorough interpretation of these
 articles that our opinion differs neither from the words of Christ nor from these articles.
 
-#### The Book of Concord
+## The Book of Concord
 
   As to the phrases and forms of expression which are employed in this Book of Concord, when we treat of
 the majesty of the human nature in the person of Christ, elevated and placed at the right hand of God, in
@@ -276,10 +274,7 @@ especially incumbent upon all the theologians and ministers of the Church, that 
 is becoming they teach from the Word of God also those who either from a certain simplicity or
 ignorance have erred from the truth, concerning the peril of their salvation, and that they fortify them
 against corruptions lest perhaps, while the blind are leaders of the blind, all may perish. Wherefore, by
-this writing of ours, we testify in the sight of Almighty God and before the entire Church that it has never
-been our purpose, by means of this godly formula for union to create trouble or danger to the godly who
-to-day are suffering persecution. For, as we have already entered into the fellowship of grief with them,
-moved by Christian love, so we are shocked at the persecution and most grievous tyranny which with
+this writing of ours, we testify in the sight of Almighty God and before the entire Church that it has never been our purpose, by means of this godly formula for union to create trouble or danger to the godly who to-day are suffering persecution. For, as we have already entered into the fellowship of grief with them, moved by Christian love, so we are shocked at the persecution and most grievous tyranny which with
 such severity is exercised against these poor men, and sincerely detest it. For in no way do we consent to
 the shedding of that innocent blood, which undoubtedly will be required with great severity from the
 persecutors at the awful judgment of the Lord and before the tribunal of Christ, and they will then
@@ -296,8 +291,7 @@ new confession, or one different from that which was presented in the year 1530 
 memory, but that we wished indeed to lead our churches and schools, first of all, to the fountains of Holy
 Scripture, and to the Creeds, and then to the Augsburg Confession, of which we have before made
 mention. We most earnestly exhort that especially the young men who are being educated for the holy
-ministry of the churches and schools be instructed in this faithfully and diligently, in order that the pure
-doctrine and profession of our faith may, by the help of the Holy Ghost, be preserved and propagated
+ministry of the churches and schools be instructed in this faithfully and diligently, in order that the pure doctrine and profession of our faith may, by the help of the Holy Ghost, be preserved and propagated
 also to our posterity, until the glorious advent of Jesus Christ, our only Redeemer and Savior.
 Since, therefore, such is the case, and being instructed from the Prophetic and Apostolic Scriptures, we
 are sure concerning our doctrine and confession, and by the grace of the Holy Ghost our minds and
@@ -307,16 +301,12 @@ times, as well as causes of offense, variances, and these long-continued dissens
 godly explanation and agreement concerning all these controversies, derived from God’s Word,
 according to the terms of which the pure doctrine might be discriminated and separated from the false.
 
-  Besides, this matter is of importance also in this respect, viz., that troublesome and contentious men, who
-do not suffer themselves to be bound to any formula of the pure doctrine, may not have the liberty,
+Besides, this matter is of importance also in this respect, viz., that troublesome and contentious men, who do not suffer themselves to be bound to any formula of the pure doctrine, may not have the liberty,
 according to their good pleasure, to excite controversies which furnish ground for offense, and to publish
-and contend for extravagant opinions. For the result of these things, at length, is that the pure doctrine is
-obscured and lost, and nothing is transmitted to posterity except academical opinions and suspensions of
+and contend for extravagant opinions. For the result of these things, at length, is that the pure doctrine is obscured and lost, and nothing is transmitted to posterity except academical opinions and suspensions of
 judgment. To these considerations was also added this that, agreeably to the office committed to us by
 God, we understand that we owe our subjects this, viz., that we should diligently care for the things
-which pertain to this life and the life to come, and that we should take pains, with the greatest earnestness
-and to our utmost ability, to attend to those matters which promote the extension of God’s name and
-glory, the propagation of His Word, (from which alone we hope for salvation,) the peace and tranquillity
+which pertain to this life and the life to come, and that we should take pains, with the greatest earnestness and to our utmost ability, to attend to those matters which promote the extension of God’s name and glory, the propagation of His Word, (from which alone we hope for salvation,) the peace and tranquillity
 of churches and schools, and the instruction and consolation of disturbed consciences, especially since it
 is certainly a settled fact with us that this salutary work of Christian concord has already been longed for
 and expected with anxious prayers and the greatest desire by many good and sincere men both of the
@@ -329,7 +319,7 @@ pleasing to God, will approve, together with us, of this salutary, useful, godly
 undertaking, and that they will act so that nothing may be wanting in them, even to the greatest effort,
 whereby the glory of God and the common welfare in both temporal and eternal things may be promoted.
 
-#### Conclusion
+## Conclusion
 
   We indeed (to repeat in conclusion what we have mentioned several times above) have wished, in this
 work of concord, in no way to devise what is new, or to depart from the truth of the heavenly doctrine

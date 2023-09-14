@@ -1,6 +1,6 @@
 ---
 title: Preface to the Augsburg Confession
-weight: 2
+weight: 1
 next: /boc/augsburg-confession/articles
 type: docs
 ---

@@ -1,6 +1,6 @@
 ---
 Title: The Augsburg Confession
-Weight: 1
+Weight: 3
 next: /boc/augsburg-confession/preface
 sidebar:
   open: true

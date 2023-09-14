@@ -1,6 +1,6 @@
 ---
 Title: Conclusion to the Augsburg Confession
-Weight: 400
+Weight: 3
 type: docs
 previous: /boc/augsburg-confession/articles
 # next: 

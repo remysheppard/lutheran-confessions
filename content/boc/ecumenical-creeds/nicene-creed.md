@@ -1,6 +1,9 @@
 ---
 Title: The Nicene Creed
 weight: 2
+type: docs
+prev: /boc/ecumenical-creeds/apostles-creed/
+next: /boc/ecumenical-creeds/athanasian-creed/
 ---
 
 I believe in one God, the Father Almighty, Maker of heaven and earth, and of all things visible and invisible.

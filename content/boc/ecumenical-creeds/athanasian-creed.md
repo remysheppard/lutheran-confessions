@@ -1,9 +1,12 @@
 ---
 Title: The Athanasian Creed
 weight: 3
+type: docs
+prev: /boc/ecumenical-creeds/nicene-creed/
+next: /boc/augsburg-confession/
 ---
 
-#### Written against the Arians.
+## Written against the Arians.
 
 Whosoever will be saved, before all things it is necessary that he hold the catholic faith. Which faith except every one do keep whole and undefiled, without doubt he shall perish everlastingly.
 
