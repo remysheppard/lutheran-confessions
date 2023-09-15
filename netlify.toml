@@ -1,4 +1,4 @@
 [build.environment]
   HUGO_VERSION = "0.118.2"
-  command = "hugo --minify"
+  command = "hugo"
   GO_VERSION = "1.21.1"
