@@ -1,1 +1,5 @@
-copyright: "© 2023 YOUR TEXT HERE"
+onThisPage: "On This Page"
+editThisPage: "Contribute on GitHub →"
+lastUpdated: "Last updated: "
+
+copyright: "[![Netlify Status](https://api.netlify.com/api/v1/badges/c58076d0-0b57-4045-8137-dad35177b441/deploy-status)](https://app.netlify.com/sites/lutheran-confessions/deploys) The Book of Concord and all images provided here are in the public domain. No copyright. <u>[This website doesn't track you](https://usefathom.com/ref/JHDRUD)</u>."

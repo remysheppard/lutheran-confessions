@@ -6,7 +6,7 @@ While there have been attempts at the confessions online, they are usually not d
 
 I was left ultimately disappointed with the direction the project took, and I disagree with a lot of the hardware, software, and design choices - though I ultimately understand why they were made. That site has its purpose, its place, and its audience, and that is fine.
 
-There are other versions of the Book of Concord online that I also do not like to use for various reasons.
+There are other versions of the Book of Concord online that I also do not like to use for various reasons, most all of which come down to usability and format. I have this idea for how this massive document should be structured online, and every attempt so far has failed me.
 
 So in the end I figured I would take a stab at it, and see if I couldn't get the Lutheran Confessions online in way that I found useful, engaging, and straightforward. And so LutheranConfessions.org was born!
 
