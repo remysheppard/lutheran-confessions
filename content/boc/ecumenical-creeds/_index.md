@@ -7,10 +7,10 @@ type: docs
 ---
 
 {{< cards >}}
-  {{< card link="/boc/ecumenical-creeds/apostles-creed/" title="The Apostle's Creed" image="https://source.unsplash.com/featured/800x600?landscape" subtitle="The Christian Faith" >}}
+  {{< card link="/boc/ecumenical-creeds/apostles-creed/" title="The Apostle's Creed" subtitle="The Christian Faith" image="/images/apostles-creed.jpg" method="Fill" options="800x500 webp q80 Center" >}}
 
-  {{< card link="/boc/ecumenical-creeds/nicene-creed/" title="The Nicene Creed" image="https://source.unsplash.com/featured/800x600?landscape" subtitle="Defense of The Divinity of The Son" >}}
+  {{< card link="/boc/ecumenical-creeds/nicene-creed/" title="The Nicene Creed" subtitle="Defense of The Divinity of The Son" image="/images/nicene-creed.jpg"  method="Fill" options="800x500 webp q80" >}}
 
-  {{< card link="/boc/ecumenical-creeds/athanasian-creed/" title="The Athanasian Creed" image="https://source.unsplash.com/featured/800x600?landscape" subtitle="Defense of The Trinity" >}}
+  {{< card link="/boc/ecumenical-creeds/athanasian-creed/" title="The Athanasian Creed" subtitle="Defense of The Trinity" image="/images/trinity-baptism.jpg"  method="Fill" options="800x500 webp q80" >}}
   
 {{< /cards >}}

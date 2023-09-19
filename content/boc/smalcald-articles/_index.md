@@ -5,10 +5,13 @@ type: docs
 ---
 
 {{< cards >}}
-  {{< card link="/boc/ecumenical-creeds/apostles-creed/" title="The Apostle's Creed" image="https://source.unsplash.com/featured/800x600?landscape" subtitle="The Christian Faith" >}}
 
-  {{< card link="/boc/ecumenical-creeds/nicene-creed/" title="The Nicene Creed" image="https://source.unsplash.com/featured/800x600?landscape" subtitle="Defense of The Divinity of The Son" >}}
+  {{< card link="/boc/smalcald-articles/preface/" title="The Preface" subtitle="of Doctor Martin Luther" image="/images/lcms-five.jpg" method="Fill" options="800x500 webp q80" >}}
 
-  {{< card link="/boc/ecumenical-creeds/athanasian-creed/" title="The Athanasian Creed" image="https://source.unsplash.com/featured/800x600?landscape" subtitle="Defense of The Trinity" >}}
+  {{< card link="/boc/smalcald-articles/articles/" title="The Smalcald Articles" image="/images/lcms-seven.jpg" method="Fill" options="800x500 webp q80" >}}
+
+  {{< card link="/boc/smalcald-articles/signatories/" title="Signatories" image="/images/lcms-eight.jpg" method="Fill" options="800x500 webp q80" >}}
   
 {{< /cards >}}
+
+<small>Some photos provided by the Lutheran Church — Missouri Synod.</small>
