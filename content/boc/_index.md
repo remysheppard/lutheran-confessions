@@ -17,5 +17,9 @@ title: The Book of Concord Online
   {{< card link="/boc/power-and-primacy" title="The Power & Primacy" image="/images/luther-concord.jpg" subtitle="of the Pope" method="Fill" options="800x800 webp q80" >}}
 
   {{< card link="/boc/small-catechism" title="Luther's Small Catechism" image="/images/luther.jpg" method="Fill" options="800x800 webp q50" >}}
+
+  {{< card link="/boc/large-catechism" title="Luther's Large Catechism" image="/images/large-catechism.png" method="Fill" options="800x800 webp q50" >}}
+
+  {{< card link="/boc/epitome/" title="The Epitome" image="/images/young-luther-cranach.jpg" method="Fill" options="800x800 webp q50" >}}
   
 {{< /cards >}}
