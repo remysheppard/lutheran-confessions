@@ -3,7 +3,9 @@ title: The Book of Concord Online
 toc: false
 ---
 
-Welcome to ***LutheranConfessions.org***, a free copy of the entire Book of Concord online. 
+Welcome to ***LutheranConfessions.org***! This website is a project of *[Lutheran Answers](https://www.lutherananswers.com)*, and seeks to be a premier online resource for Lutherans around the world. The ultimate goal will be to have various writings, sermons, hymnody, and more available on this website in an easy to search and easy to use format. 
+
+To start, we've gotten the entire Book of Concord online for you to search and use.
 
 
 ## The Confessions:
@@ -27,5 +29,7 @@ Welcome to ***LutheranConfessions.org***, a free copy of the entire Book of Conc
   {{< card link="/boc/large-catechism" title="Luther's Large Catechism" image="/images/large-catechism.png" method="Fill" options="800x800 webp q50" >}}
 
   {{< card link="/boc/formula/" title="The Formula of Concord" image="/images/adultery-4.jpg" method="Fill" options="800x800 webp q50" >}}
+
+  {{< card link="/boc/testimonies/" title="Appendix" subtitle="The Catalogue of Testimonies" image="/images/luther-portrait-cranach.jpg" method="Fill" options="800x800 webp q50" >}}
   
 {{< /cards >}}

@@ -17,11 +17,11 @@ markup:
 
 menu:
   main:
-    - name: Book of Concord
-      pageRef: /boc
-      weight: 1
     - name: About
       pageRef: /about
+      weight: 1
+    - name: Contact
+      pageRef: /contact
       weight: 2
     - name: Search
       weight: 3
