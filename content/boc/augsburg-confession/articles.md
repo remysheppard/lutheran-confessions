@@ -7,19 +7,19 @@ type: docs
 ---
 
 
-### Article I - Of God
+### I: Of God
 
 Our Churches, with common consent, do teach that the decree of the Council of Nicaea concerning the Unity of the Divine Essence and concerning the Three Persons, is true and to be believed without any doubting; that is to say, there is one Divine Essence which is called and which is God: eternal, without body, without parts, of infinite power, wisdom, and goodness, the Maker and Preserver of all things, visible and invisible; and yet there are three Persons, of the same essence and power, who also are coeternal, the Father, the Son, and the Holy Ghost. And the term "person" they use as the Fathers have used it, to signify, not a part or quality in another, but that which subsists of itself.
  
 They condemn all heresies which have sprung up against this article, as the Manichaeans, who assumed two principles, one Good and the other Evil: also the Valentinians, Arians, Eunomians, Mohammedans, and all such. They condemn also the Samosatenes, old and new, who, contending that there is but one Person, sophistically and impiously argue that the Word and the Holy Ghost are not distinct Persons, but that "Word" signifies a spoken word, and "Spirit" signifies motion created in things.
 
-### Article II - Of Original Sin
+### II: Of Original Sin
 
 Also they teach that since the fall of Adam all men begotten in the natural way are born with sin, that is, without the fear of God, without trust in God, and with concupiscence; and that this disease, or vice of origin, is truly sin, even now condemning and bringing eternal death upon those not born again through Baptism and the Holy Ghost.
 
 They condemn the Pelagians and others who deny that original depravity is sin, and who, to obscure the glory of Christ's merit and benefits, argue that man can be justified before God by his own strength and reason.
 
-### Article III - Of the Son of God
+### III: Of the Son of God
 
 Also they teach that the Word, that is, the Son of God, did assume the human nature in the womb of the blessed Virgin Mary, so that there are two natures, the divine and the human, inseparably enjoined in one Person, one Christ, true God and true man, who was born of the Virgin Mary, truly suffered, was crucified, dead, and buried, that He might reconcile the Father unto us, and be a sacrifice, not only for original guilt, but also for all actual sins of men.
 
@@ -27,47 +27,47 @@ He also descended into hell, and truly rose again the third day; afterward He as
 
 The same Christ shall openly come again to judge the quick and the dead, etc., according to the Apostles' Creed.
 
-### Article IV - Of Justification
+### IV: Of Justification
 
 Also they teach that men cannot be justified before God by their own strength, merits, or works, but are freely justified for Christ's sake, through faith, when they believe that they are received into favor, and that their sins are forgiven for Christ's sake, who, by His death, has made satisfaction for our sins. This faith God imputes for righteousness in His sight. Rom. 3 and 4.
 
-### Article V. - Of the Ministry
+### V: Of the Ministry
 
 That we may obtain this faith, the Ministry of Teaching the Gospel and administering the Sacraments was instituted. For through the Word and Sacraments, as through instruments, the Holy Ghost is given, who works faith; where and when it pleases God, in them that hear the Gospel, to wit, that God, not for our own merits, but for Christ's sake, justifies those who believe that they are received into grace for Christ's sake.
 
 They condemn the Anabaptists and others who think that the Holy Ghost comes to men without the external Word, through their own preparations and works.
 
-### Article VI - Of New Obedience
+### VI: Of New Obedience
 
 Also they teach that this faith is bound to bring forth good fruits, and that it is necessary to do good works commanded by God, because of God's will, but that we should not rely on those works to merit justification before God. For remission of sins and justification is apprehended by faith, as also the voice of Christ attests: When ye shall have done all these things, say: We are unprofitable servants. Luke 17:10. The same is also taught by the Fathers. For Ambrose says: "It is ordained of God that he who believes in Christ is saved, freely receiving remission of sins, without works, by faith alone."
 
-### Article VII - Of The Church
+### VII: Of The Church
 
 Also they teach that one holy Church is to continue forever. The Church is the congregation of saints, in which the Gospel is rightly taught and the Sacraments are rightly administered.
 
 And to the true unity of the Church it is enough to agree concerning the doctrine of the Gospel and the administration of the Sacraments. Nor is it necessary that human traditions, that is, rites or ceremonies, instituted by men, should be everywhere alike. As Paul says: One faith, one Baptism, one God and Father of all, etc. Eph. 4:5-6.
 
-### Article VIII - What The Church Is
+### VIII: What The Church Is
 
 Although the Church properly is the congregation of saints and true believers, nevertheless, since in this life many hypocrites and evil persons are mingled therewith, it is lawful to use Sacraments administered by evil men, according to the saying of Christ: The Scribes and the Pharisees sit in Moses' seat, etc. Matt. 23:2. Both the Sacraments and Word are effectual by reason of the institution and commandment of Christ, notwithstanding they be administered by evil men.
 
 They condemn the Donatists, and such like, who denied it to be lawful to use the ministry of evil men in the Church, and who thought the ministry of evil men to be unprofitable and of none effect.
 
-### Article IX - Of Baptism
+### IX: Of Baptism
 
 Of Baptism they teach that it is necessary to salvation, and that through Baptism is offered the grace of God, and that children are to be baptized who, being offered to God through Baptism are received into God's grace.
 
 They condemn the Anabaptists, who reject the baptism of children, and say that children are saved without Baptism.
  
-### Article X - Of The Lord's Supper
+### X: Of The Lord's Supper
 
 Of the Supper of the Lord they teach that the Body and Blood of Christ are truly present, and are distributed to those who eat the Supper of the Lord; and they reject those that teach otherwise.
  
-### Article XI - Of Confession
+### XI: Of Confession
 
 Of Confession they teach that Private Absolution ought to be retained in the churches, although in confession an enumeration of all sins is not necessary. For it is impossible according to the Psalm: Who can understand his errors? Ps. 19:12.
  
-### Article XII - Of Repentance
+### XII: Of Repentance
 
 Of Repentance they teach that for those who have fallen after Baptism there is remission of sins whenever they are converted and that the Church ought to impart absolution to those thus returning to repentance. Now, repentance consists properly of these two parts: One is contrition, that is, terrors smiting the conscience through the knowledge of sin; the other is faith, which is born of the Gospel, or of absolution, and believes that for Christ's sake, sins are forgiven, comforts the conscience, and delivers it from terrors. Then good works are bound to follow, which are the fruits of repentance.
 
@@ -77,17 +77,17 @@ The Novatians also are condemned, who would not absolve such as had fallen after
 
 They also are rejected who do not teach that remission of sins comes through faith but command us to merit grace through satisfactions of our own.
  
-### Article XIII - Of The Use of The Sacraments
+### XIII: Of The Use of The Sacraments
 
 Of the Use of the Sacraments they teach that the Sacraments were ordained, not only to be marks of profession among men, but rather to be signs and testimonies of the will of God toward us, instituted to awaken and confirm faith in those who use them. Wherefore we must so use the Sacraments that faith be added to believe the promises which are offered and set forth through the Sacraments.
 
 They therefore condemn those who teach that the Sacraments justify by the outward act, and who do not teach that, in the use of the Sacraments, faith which believes that sins are forgiven, is required.
  
-### Article XIV - Of Ecclesiastical Order
+### XIV: Of Ecclesiastical Order
 
 Of Ecclesiastical Order they teach that no one should publicly teach in the Church or administer the Sacraments unless he be regularly called.
  
-### Article XV - Of Ecclesiastical Usages
+### XV: Of Ecclesiastical Usages
 
 Of Usages in the Church they teach that those ought to be observed which may be observed without sin, and which are profitable unto tranquillity and good order in the Church, as particular holy days, festivals, and the like.
 
@@ -95,7 +95,7 @@ Nevertheless, concerning such things men are admonished that consciences are not
 
 They are admonished also that human traditions instituted to propitiate God, to merit grace, and to make satisfaction for sins, are opposed to the Gospel and the doctrine of faith. Wherefore vows and traditions concerning meats and days, etc., instituted to merit grace and to make satisfaction for sins, are useless and contrary to the Gospel.
  
-### Article XVI - Of Civil Affairs
+### XVI: Of Civil Affairs
 
 Of Civil Affairs they teach that lawful civil ordinances are good works of God, and that it is right for Christians to bear civil office, to sit as judges, to judge matters by the Imperial and other existing laws, to award just punishments, to engage in just wars, to serve as soldiers, to make legal contracts, to hold property, to make oath when required by the magistrates, to marry a wife, to be given in marriage.
 
@@ -103,7 +103,7 @@ They condemn the Anabaptists who forbid these civil offices to Christians.
 
 They condemn also those who do not place evangelical perfection in the fear of God and in faith, but in forsaking civil offices, for the Gospel teaches an eternal righteousness of the heart. Meanwhile, it does not destroy the State or the family, but very much requires that they be preserved as ordinances of God, and that charity be practiced in such ordinances. Therefore, Christians are necessarily bound to obey their own magistrates and laws save only when commanded to sin; for then they ought to obey God rather than men. Acts 5:29.
  
-### Article XVII - Of Christ's Return To Judgement
+### XVII: Of Christ's Return To Judgement
 
 Also they teach that at the Consummation of the World Christ will appear for judgment, and will raise up all the dead; He will give to the godly and elect eternal life and everlasting joys, but ungodly men and the devils He will condemn to be tormented without end.
 
@@ -111,15 +111,15 @@ They condemn the Anabaptists, who think that there will be an end to the punishm
 
 They condemn also others who are now spreading certain Jewish opinions, that before the resurrection of the dead the godly shall take possession of the kingdom of the world, the ungodly being everywhere suppressed.
  
-### Article XVIII - Of Free Will
+### XVIII: Of Free Will
 
 Of Free Will they teach that man's will has some liberty to choose civil righteousness, and to work things subject to reason. But it has no power, without the Holy Ghost, to work the righteousness of God, that is, spiritual righteousness; since the natural man receiveth not the things of the Spirit of God, 1 Cor. 2:14; but this righteousness is wrought in the heart when the Holy Ghost is received through the Word. These things are said in as many words by Augustine in his Hypognosticon, Book III: We grant that all men have a free will, free, inasmuch as it has the judgment of reason; not that it is thereby capable, without God, either to begin, or, at least, to complete aught in things pertaining to God, but only in works of this life, whether good or evil. "Good" I call those works which spring from the good in nature, such as, willing to labor in the field, to eat and drink, to have a friend, to clothe oneself, to build a house, to marry a wife, to raise cattle, to learn diverse useful arts, or whatsoever good  pertains to this life. For all of these things are not without dependence on the providence of God; yea, of Him and through Him they are and have their being. "Evil" I call such works as willing to worship an idol, to commit murder, etc. They condemn the Pelagians and others, who teach that without the Holy Ghost, by the power of nature alone, we are able to love God above all things; also to do the commandments of God as touching "the substance of the act." For, although nature is able in a manner to do the outward work, (for it is able to keep the hands from theft and murder,) yet it cannot produce the inward motions, such as the fear of God, trust in God, chastity, patience, etc.
  
-### Article XIX - Of The Cause of Sin
+### XIX: Of The Cause of Sin
 
 Of the Cause of Sin they teach that, although God does create and preserve nature, yet the cause of sin is the will of the wicked, that is, of the devil and ungodly men; which will, unaided of God, turns itself from God, as Christ says John 8:44: When he speaketh a lie, he speaketh of his own.
  
-### Article XX - Of Good Works
+### XX: Of Good Works
 
 Our teachers are falsely accused of forbidding Good Works. For their published writings on the Ten Commandments, and others of like import, bear witness that they have taught to good purpose concerning all estates and duties of life, as to what estates of life and what works in every calling be pleasing to God. Concerning these things preachers heretofore taught but little, and urged only childish and needless works, as particular holy-days, particular fasts, brotherhoods, pilgrimages, services in honor of saints, the use of rosaries, monasticism, and such like. Since our adversaries have been admonished of these things, they are now unlearning them, and do not preach these unprofitable works as heretofore. Besides, they begin to mention faith, of which there was heretofore marvelous silence. They teach that we are justified not by works only, but they conjoin faith and works, and say that we are justified by faith and works. This doctrine is more tolerable than the former one, and can afford more consolation than their old doctrine.
 
@@ -147,7 +147,7 @@ Hence it may be readily seen that this doctrine is not to be charged with prohib
 There is nothing found in man,  
 Naught in him is harmless.*
  
-### Article XXI - Of The Worship of The Saints
+### XXI: Of The Worship of The Saints
 
 Of the Worship of Saints they teach that the memory of saints may be set before us, that we may follow their faith and good works, according to our calling, as the Emperor may follow the example of David in making war to drive away the Turk from his country. For both are kings. But the Scripture teaches not the invocation of saints or to ask help of saints, since it sets before us the one Christ as the Mediator, Propitiation, High Priest, and Intercessor. He is to be prayed to, and has promised that He will hear our prayer; and this worship He approves above all, to wit, that in all afflictions He be called upon, 1 John 2:1: If any man sin, we have an Advocate with the Father, etc.
 
@@ -157,11 +157,11 @@ This is about the Sum of our Doctrine, in which, as can be seen, there is nothin
 
 Inasmuch, then, as our churches dissent in no article of the faith from the Church Catholic, but only omit some abuses which are new, and which have been erroneously accepted by the corruption of the times, contrary to the intent of the Canons, we pray that Your Imperial Majesty would graciously hear both what has been changed, and what were the reasons why the people were not compelled to observe those abuses against their conscience. Nor should Your Imperial Majesty believe those who, in order to excite the hatred of men against our part, disseminate strange slanders among the people. Having thus excited the minds of good men, they have first given occasion to this controversy, and now endeavor, by the same arts, to increase the discord. For Your Imperial Majesty will undoubtedly find that the form of doctrine and of ceremonies with us is not so intolerable as these ungodly and malicious men represent. Besides, the truth cannot be gathered from common rumors or the revilings of enemies. But it can readily be judged that nothing would serve better to maintain the dignity of ceremonies, and to nourish reverence and pious devotion among the people than if the ceremonies were observed rightly in the churches.
  
-### Article XXII - Of Both Kinds in The Sacrament
+### XXII: Of Both Kinds in The Sacrament
 
 To the laity are given Both Kinds in the Sacrament of the Lord's Supper, because this usage has the commandment of the Lord in Matt. 26:27: Drink ye all of it, where Christ has manifestly commanded concerning the cup that all should drink. And lest any man should craftily say that this refers only to priests, Paul in 1 Cor. 11:27 recites an example from which it appears that the whole congregation did use both kinds. And this usage has long remained in the Church, nor is it known when, or by whose authority, it was changed; although Cardinal Cusanus mentions the time when it was approved. Cyprian in some places testifies that the blood was given to the people. The same is testified by Jerome, who says: The priests administer the Eucharist, and distribute the blood of Christ to the people. Indeed, Pope Gelasius commands that the Sacrament be not divided (dist. II., De Consecratione, cap. Comperimus). Only custom, not so ancient, has it otherwise. But it is evident that any custom introduced against the commandments of God is not to be allowed, as the Canons witness (dist. III., cap. Veritate, and the following chapters). But this custom has been received, not only against the Scripture, but also against the old Canons and the example of the Church. Therefore, if any preferred to use both kinds of the Sacrament, they ought not to have been compelled with offense to their consciences to do otherwise. And because the division of the Sacrament does not agree with the ordinance of Christ, we are accustomed to omit the procession, which hitherto has been in use.
  
-### Article XXIII - Of The Marriage of Priests
+### XXIII: Of The Marriage of Priests
 
 There has been common complaint concerning the examples of priests who were not chaste. For that reason also Pope Pius is reported to have said that there were certain causes why marriage was taken away from priests, but that there were far weightier ones why it ought to be given back; for so Platina writes. Since, therefore, our priests were desirous to avoid these open scandals, they married wives, and taught that it was lawful for them to contract matrimony. First, because Paul says, 1 Cor. 7:2,9: To avoid fornication, let every man have his own wife. Also: It is better to marry than to burn. Secondly Christ says, Matt. 19:11: All men cannot receive this saying, where He teaches that not all men are fit to lead a single life; for God created man for procreation, Gen. 1:28. Nor is it in man's power, without a singular gift and work of God, to alter this creation. [For it is manifest, and many have confessed that no good, honest, chaste life, no Christian, sincere, upright conduct has resulted (from the attempt), but a horrible, fearful unrest and torment of conscience has been felt by many until the end.] Therefore, those who are not fit to lead a single life ought to contract matrimony. For no man's law, no vow, can annul the commandment and ordinance of God. For these reasons the priests teach that it is lawful for them to marry wives.
 
@@ -177,7 +177,7 @@ But as no law of man can annul the commandment of God, so neither can it be done
 
 And even the Canons show some leniency toward those who have taken vows before the proper age, as heretofore has generally been the case.
  
-### Article XXIV - Of The Mass
+### XXIV: Of The Mass
 
 Falsely are our churches accused of abolishing the Mass; for the Mass is retained among us, and celebrated with the highest reverence. Nearly all the usual ceremonies are also preserved, save that the parts sung in Latin are interspersed here and there with German hymns, which have been added to teach the people. For ceremonies are needed to this end alone that the unlearned be taught [what they need to know of Christ]. And not only has Paul commanded to use in the church a language understood by the people 1 Cor. 14:2-9, but it has also been so ordained by man's law. The people are accustomed to partake of the Sacrament together, if any be fit for it, and this also increases the reverence and devotion of public worship. For none are admitted except they be first examined. The people are also advised concerning the dignity and use of the Sacrament, how great consolation it brings anxious consciences, that they may learn to believe God, and to expect and ask of Him all that is good. [In this connection they are also instructed regarding other and false teachings on the Sacrament.] This worship pleases God; such use of the Sacrament nourishes true devotion toward God. It does not, therefore, appear that the Mass is more devoutly celebrated among our adversaries than among us.
 
@@ -197,13 +197,13 @@ Now, forasmuch as the Mass is such a giving of the Sacrament, we hold one commun
 
 Forasmuch, therefore, as the Mass with us has the example of the Church, taken from the Scripture and the Fathers, we are confident that it cannot be disapproved, especially since public ceremonies, for the most part like those hither to in use, are retained; only the number of Masses differs, which, because of very great and manifest abuses doubtless might be profitably reduced. For in olden times, even in churches most frequented, the Mass was not celebrated every day, as the Tripartite History (Book 9, chap. 33) testifies: Again in Alexandria, every Wednesday and Friday the Scriptures are read, and the doctors expound them, and all things are done, except the solemn rite of Communion.
  
-### Article XXV - Of Confession
+### XXV: Of Confession
 
 Confession in the churches is not abolished among us; for it is not usual to give the body of the Lord, except to them that have been previously examined and absolved. And the people are most carefully taught concerning faith in the absolution, about which formerly there was profound silence. Our people are taught that they should highly prize the absolution, as being the voice of God, and pronounced by God's command. The power of the Keys is set forth in its beauty and they are reminded what great consolation it brings to anxious consciences, also, that God requires faith to believe such absolution as a voice sounding from heaven, and that such faith in Christ truly obtains and receives the forgiveness of sins. Aforetime satisfactions were immoderately extolled; of faith and the merit of Christ and the righteousness of faith no mention was made; wherefore, on this point, our churches are by no means to be blamed. For this even our adversaries must needs concede to us that the doctrine concerning repentance has been most diligently treated and laid open by our teachers.
 
 But of Confession they teach that an enumeration of sins is not necessary, and that consciences be not burdened with anxiety to enumerate all sins, for it is impossible to recount all sins, as the Psalm 19:13 testifies: Who can understand his errors? Also Jeremiah 17:9 : The heart is deceitful; who can know it? But if no sins were forgiven, except those that are recounted, consciences could never find peace; for very many sins they neither see nor can remember. The ancient writers also testify that an enumeration is not necessary. For in the Decrees, Chrysostom is quoted, who says thus: I say not to you that you should disclose yourself in public, nor that you accuse yourself before others, but I would have you obey the prophet who says: "Disclose thy way before God." Therefore confess your sins before God, the true Judge, with prayer. Tell your errors, not with the tongue, but with the memory of your conscience, etc. And the Gloss (Of Repentance, Distinct. V, Cap. Consideret) admits that Confession is of human right only [not commanded by Scripture, but ordained by the Church]. Nevertheless, on account of the great benefit of absolution, and because it is otherwise useful to the conscience, Confession is retained among us.
  
-### Article XXVI - Of The Distinction of Meats
+### XXVI: Of The Distinction of Meats
 
 It has been the general persuasion, not of the people alone, but also of those teaching in the churches, that making Distinctions of Meats, and like traditions of men, are works profitable to merit grace, and able to make satisfactions for sins. And that the world so thought, appears from this, that new ceremonies, new orders, new holy-days, and new fastings were daily instituted, and the teachers in the churches did exact these works as a service necessary to merit grace, and did greatly terrify men's consciences, if they should omit any of these things. From this persuasion concerning traditions much detriment has resulted in the Church.
 
@@ -223,7 +223,7 @@ Moreover, they teach that every Christian ought to train and subdue himself with
 
 Nevertheless, very many traditions are kept on our part, which conduce to good order in the Church, as the Order of Lessons in the Mass and the chief holy-days. But, at the same time, men are warned that such observances do not justify before God, and that in such things it should not be made sin if they be omitted without offense. Such liberty in human rites was not unknown to the Fathers. For in the East they kept Easter at another time than at Rome, and when, on account of this diversity, the Romans accused the Eastern Church of schism, they were admonished by others that such usages need not be alike everywhere. And Irenaeus says: Diversity concerning fasting does not destroy the harmony of faith; as also Pope Gregory intimates in Dist. XII, that such diversity does not violate the unity of the Church. And in the Tripartite History, Book 9, many examples of dissimilar rites are gathered, and the following statement is made: It was not the mind of the Apostles to enact rules concerning holy-days, but to preach godliness and a holy life [to teach faith and love].
  
-### Article XXVII - Of Monastic Vows
+### XXVII: Of Monastic Vows
 
 What is taught on our part concerning Monastic Vows, will be better understood if it be remembered what has been the state of the monasteries, and how many things were daily done in those very monasteries, contrary to the Canons. In Augustine's time they were free associations. Afterward, when discipline was corrupted, vows were everywhere added for the purpose of restoring discipline, as in a carefully planned prison.
 
@@ -264,7 +264,7 @@ And before these times, Gerson rebukes this error of the monks concerning perfec
 
 So many wicked opinions are inherent in the vows, namely, that they justify, that they constitute Christian perfection, that they keep the counsels and commandments, that they have works of supererogation. All these things, since they are false and empty, make vows null and void.
  
-### Article XXVIII - Of Ecclesiastical Power
+### XXVIII: Of Ecclesiastical Power
 
 There has been great controversy concerning the Power of Bishops, in which some have awkwardly confounded the power of the Church and the power of the sword. And from this confusion very great wars and tumults have resulted, while the Pontiffs, emboldened by the power of the Keys, not only have instituted new services and burdened consciences with reservation of cases and ruthless excommunications, but have also undertaken to transfer the kingdoms of this world, and to take the Empire from the Emperor. These wrongs have long since been rebuked in the Church by learned and godly men. Therefore our teachers, for the comforting of men's consciences, were constrained to show the difference between the power of the Church and the power of the sword, and taught that both of them, because of God's commandment, are to be held in reverence and honor, as the chief blessings of God on earth.
 

@@ -20,6 +20,6 @@ title: The Book of Concord Online
 
   {{< card link="/boc/large-catechism" title="Luther's Large Catechism" image="/images/large-catechism.png" method="Fill" options="800x800 webp q50" >}}
 
-  {{< card link="/boc/epitome/" title="The Epitome" image="/images/young-luther-cranach.jpg" method="Fill" options="800x800 webp q50" >}}
+  {{< card link="/boc/formula/" title="The Formula of Concord" image="/images/adultery-4.jpg" method="Fill" options="800x800 webp q50" >}}
   
 {{< /cards >}}
